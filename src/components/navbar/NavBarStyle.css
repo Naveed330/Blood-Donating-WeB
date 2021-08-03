@@ -1,0 +1,17 @@
+
+ul{
+    text-decoration: none;
+    list-style-type: none;
+ 
+}
+ul li{
+    display: inline-block;
+    padding: 10px;
+    color: black;
+}
+Link{
+    color: black;
+}
+.navbar{
+    background-color: khaki;
+}
